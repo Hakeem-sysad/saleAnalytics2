@@ -6,7 +6,7 @@ This project is a data engineering pipeline solution to a made-up business probl
 This project addresses a critical business need by building a comprehensive data pipeline on Azure. The goal is to extract customer and sales data from an on-premises SQL database, transform it in the cloud, and generate actionable insights through a Tableau dashboard. The dashboard will present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
 ## System Architecture
-![System Architecture](assets/system_architecture.png)
+![System Architecture](assets/system_architecture.PNG)
 
 
 
